@@ -21,7 +21,7 @@
             {
                 "id": 1,
                 "name" : "CONSULTATION",
-                "img" : "/services/ECG.jpeg",
+                "img" : "/Promotions/ECG.jpeg",
                 "treatmentcontent" : 
                     [
                         "1. Health Screening",
