@@ -96,6 +96,12 @@
                 "img": "/team/Siti Zahirah.jpg",
                 "name": "Siti Zahirah",
                 "position": "Pembantu Klinik"
+              },
+              {
+                "id": 7,
+                "img": "/team/Karmizee Lyslee.jpg",
+                "name": "Karmizee",
+                "position": "Pembantu Klinik"
               }
         ]
 }
