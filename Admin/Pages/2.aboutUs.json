@@ -1,0 +1,101 @@
+{
+    "about us title": "ABOUT US",
+    "about us content":
+        [
+            "Klinik Hanita is a renowned healthcare facility that has",
+            "gained a reputation for its comprehensive approach to health",
+            "and wellness. Klinik Hanita first opened in 2007 and have",
+            "served the communities for more than 16 years. The clinics",
+            "are managed by Dr Hanita Binti Abdul Wahid herself and she",
+            "is very committed in providing the best primary healthcare",
+            "to as many people regardless of cultural and social",
+            "background. Dr. Hanita has recruited her management team",
+            "that are well qualified, dedicated and passionate medical",
+            "doctors, together with well-trained clinical staff and",
+            "radiographer."
+        ],
+
+    "about us img": "/team/KlinikGroup.png",
+
+
+
+
+    "vision content":
+        [
+            "To be a trusted leader in comprehensive healthcare, dedicated",
+            "to empowering individuals and promoting holistic well-being",
+            "within our community."
+        ],
+    "mission content":
+        [
+            "To provide exceptional, patient-centered healthcare services",
+            "with a focus on quality, compassion, and innovation, while",
+            " promoting wellness, preventive care, and community",
+            "engagement."
+        ],
+
+
+
+    "ceo image" :"/team/Dr hanita 001 .png",
+    "ceo title":"GET TO KNOW OUR CEO",
+    "ceo name":"Dr Hanita Abdul Wahid",
+    "ceo position" : "Doctor and founder of Klinik Hanita",
+    "ceo content":
+        [
+            "Dr. Hanita is a highly qualified medical professional with a",
+            "strong educational background and years of experience in the",
+            "field of medicine. She graduated in the year 1995 from the",
+            "prestigious University of Malaya, where she earned her",
+            "Bachelor of Medical and Bachelor of Surgery degrees. Doctor",
+            "Hanita embarked on her professional journey by serving at",
+            "Kuala Lumpur Hospital (HKL) starting in 1995 until 1999. Dr.",
+            "Hanita continued to make significant contributions to the",
+            "field of healthcare. From 1999 to 2001, she took on a",
+            "pivotal role by working with the Minister of Health."
+        ],
+    "ceo insta":"https://instagram.com/klinikhanita?igshid=MzRlODBiNWFlZA==",
+    "ceo facebook" : "https://m.facebook.com/KlinikHanitaDPP",
+
+
+
+
+    "team card" : 
+        [
+            {
+                "id": 1,
+                "img": "/team/Aini Hidayah.jpg",
+                "name": "Aini Hidayah",
+                "position": "Pegawai Sumber Manusia"
+              },
+              {
+                "id": 2,
+                "img": "/team/Qurratu 'Ain Fadillah.jpg",
+                "name": "Qurratu 'Ain Fadillah",
+                "position": "Juru X-Ray"
+              },
+              {
+                "id": 3,
+                "img": "/team/Wan Nur Syamimi.jpg",
+                "name": "Wan Nur Syamimi",
+                "position": "Pegawai Dietetik"
+              },
+              {
+                "id": 4,
+                "img": "/team/Norisah.jpg",
+                "name": "Norisah",
+                "position": "Pembantu Klinik"
+              },
+              {
+                "id": 5,
+                "img": "/team/Wan Nur Fatin Amirah.jpg",
+                "name": "Wan Nur Fatin Amirah",
+                "position": "Pembantu Klinik"
+              },
+              {
+                "id": 6,
+                "img": "/team/Siti Zahirah.jpg",
+                "name": "Siti Zahirah",
+                "position": "Pembantu Klinik"
+              }
+        ]
+}

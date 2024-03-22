@@ -1,0 +1,123 @@
+{
+    "service title" : "SERVICES",
+    "service content" : 
+        [
+            "Klinik Hanita is a respected healthcare facility established",
+            "in 2007, led by Dr. Hanita Binti Abdul Wahid. They've served",
+            "communities for over 16 years, focusing on comprehensive",
+            "healthcare. Our expert team includes qualified medical",
+            "professionals and well-trained clinical staff. Services",
+            "offered encompass primary healthcare, specialized treatments,",
+            "diagnostic imaging, health education, and emergency care, all",
+            "provided with cultural sensitivity. Klinik Hanita prioritizes",
+            "individual well-being, offering high-quality healthcare",
+            "services in a welcoming environment."
+        ],
+
+
+    "treatment title": "TREATMENT",
+    "treatment": 
+        [
+            {
+                "id": 1,
+                "name" : "CONSULTATION",
+                "img" : "https://img.freepik.com/free-photo/asian-female-physician-consulting-woman-office_1098-20395.jpg?",
+                "treatmentcontent" : 
+                    [
+                        "1. Health Screening",
+                        "2. Acute Illness (URTI, Diarrhea, etc)",
+                        "3. Chronic Illness (Diabetes, Hypertensions)",
+                        "4. Emergency (Injury, MVA, etc)",
+                        "5. Family Planning",
+                        "6. Antenatal Check-Up",
+                        "7. Medical Check-Up",
+                        "8. GDL/PSV Check-Up",
+                        "9. University Check-Up",
+                        "10. Pre-FOMEMA Check-Up",
+                        "11. Pre-Employment Check-Up",
+                        "12. Hajj Medical Check-Up",
+                        "13. Medication"
+                    ],
+                "whatsapp" : "https://wa.me/60132401055?text=Hi, could you provide more information"
+            },
+            {
+                "id": 2,
+                "name" : "Procedure",
+                "img" : "https://img.freepik.com/free-photo/coronavirus-blood-samples-assortment-lab_23-2149107255.jpg?",
+                "treatmentcontent" : 
+                    [
+                        "1. Pap Smear",
+                        "2. Would Dressing",
+                        "3. STO",
+                        "4. Small Surgery",
+                        "5. Diabetic Foot Dressing",
+                        "6. ECG",
+                        "7. Nebuliser / Oxygen",
+                        "8. X-Ray",
+                        "9. Ultrasound",
+                        "10. Ear Syringe"
+                    ],
+                "whatsapp" : "https://wa.me/60132401055?text=Hi Im interested in the Diagnostic Tests and Screenings Treatment Category."
+            },
+            {
+                "id": 3,
+                "name" : "immunization",
+                "img" : "https://images.pexels.com/photos/139398/thermometer-headache-pain-pills-139398.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+                "treatmentcontent" : 
+                    [
+                        "1. Meningococcal",
+                        "2. Influenza",
+                        "3. Pneumococcal",
+                        "4. Typhoid",
+                        "5. Measles",
+                        "6. MMR",
+                        "7. DTaP-IPV-Hep B- Hib",
+                        "8. Hepatitis B",
+                        "9. Depo Provera",
+                        "10. Hajj and Umrah Vaccination"
+                    ],
+                "whatsapp" : "https://wa.me/60132401055?text=Hi Im interested in the Immunization."
+            }
+            
+        ],
+
+
+
+        
+
+    "promotion title": "promo-package",
+    "promotion" :
+        [
+            {
+                "id": 1,
+                "name": "Promo A",
+                "img": "/Services/Promo Package/Promo A.png" ,
+                "promoContent": 
+                    [
+                        "Full Blood Count, Kidney Function, Liver Function, Blood Sugar, Cholesterol Studies, Uric Acid, HbA1C and Urine Analysis."
+                    ],
+                "whatsapp": "https://wa.me/60132401055?text=Hi Im interested in PROMO A."
+            },
+            {
+                "id": 2,
+                "name": "Promo B",
+                "img": "/Services/Promo Package/Promo B.png" ,
+                "promoContent": 
+                    [
+                        "Full Blood Count, Kidney Function, Liver Function, Uric Acid, Blood Sugar, Cholesterol Studies, HbA1C, Rapid Plasma Reagent (RPR), Blood Group, Thyroid, VDRL, Hepatitis B (Ag & Ab), Rheumatoid and Urine Analysis."
+                    ],
+                "whatsapp": "https://wa.me/60132401055?text=Hi Im interested in PROMO B."
+            },
+            {
+                "id": 3,
+                "name": "Promo C",
+                "img": "/Services/Promo Package/Promo C.png" ,
+                "promoContent": 
+                    [
+                        "1. Breast Examination",
+                        "2. Full Blood Count, Kidney Function, Liver Function, Blood Sugar, Cholesterol Studies, HbA1C, Uric Acid, Blood grouping, Rapid Plasma Reagent (RPR), Rheumatoid, 5 Cancer Markers (Women), 4 Cancer Markers (Men), Urine Analysis"
+                    ],
+                "whatsapp": "https://wa.me/60132401055?text=Hi Im interested in PROMO C."
+            }
+        ]
+}

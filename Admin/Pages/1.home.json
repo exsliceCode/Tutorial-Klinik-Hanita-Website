@@ -1,0 +1,80 @@
+{
+    
+    "image_doctor" : "/Doctor.png",
+
+    "slogan" : 
+        [
+            "To provide patient-centered healthcare with excellence in",
+            "quality, service and access."
+        ],
+
+    "business hours 1" : "MONDAY - FRIDAY (9AM - 10PM)",
+    "business hours 2" : "SATURDAY (9AM - 9PM)",
+    "business hours 3" : "SUNDAY (10AM -9PM)",
+    "business hours 4" : "PUBLIC HOLIDAY (10AM - 9PM)",
+
+    "contact us": "https://wa.me/60132401055?",
+    
+    
+    
+    
+    
+    "promotion title": "PROMOTION",
+    "whatsappNumber" : "60132401055",
+
+    "promo1_title":"FOMEMA CHECK UP",
+    "promo1_img": "/Promotions/Promotion1.png",
+    "promo1_info": "Register your foreign workers with our clinic now!",
+    "promo1_whatsapp": "https://wa.me/60132401055?text=Hi Im interested in the FOMEMA CHECK UP.",
+
+    "promo2_title":"TYPHOID VACCINE",
+    "promo2_img": "/Promotions/Promotion2.png",
+    "promo2_info": "Compulsory for food handler, get your vaccine now!",
+    "promo2_whatsapp": "https://wa.me/60132401055?text=Hi I'm interested in the TYPHOID VACCINE.",
+    
+    "promo3_title":"INFLUENZA VACCINES",
+    "promo3_img": "/Promotions/Promotion3.png",
+    "promo3_info": "Get vaccinated! and provide protection against severe illness.",
+    "promo3_whatsapp": "https://wa.me/60132401055?text=Hi I'm interested in the INFLUENZA VACCINE.",
+
+
+
+
+
+    "service title": "SERVICES",
+
+    "service_img1": "/Services/Home Page/Xray.png",
+    "service_text1": "XRAY",
+
+    "service_img2": "/Services/Home Page/ultra.png",
+    "service_text2": "ULTRASOUND",
+
+    "service_img3": "/Services/Home Page/consult1.png",
+    "service_text3": "CONSULTATION",
+
+    "service topic" : "STATE OF THE ART MEDICAL SERVICE",
+    "service content" : 
+        [
+            "To provide exceptional, patient-centered healthcare services with",
+            "a focus on quality, compassion, and innovation, while promoting",
+            "wellness, preventive care, and community engagement."
+        ],
+
+
+
+
+    "panel title": "PANELS",
+    "panel_img" : "/panels_img/Group15.png",
+    "panel content" : 
+    [
+        "Experience the convenience of over 20 locally supported panels with",
+        "quick and seamless registration. Explore additional panels for more",
+        "options and possibilities."
+    ],
+
+
+
+
+    "location title":"LOCATION"
+
+}

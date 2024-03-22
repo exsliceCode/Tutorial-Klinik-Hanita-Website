@@ -1,0 +1,89 @@
+{
+    "career title": "CAREER",
+    "career content1":
+        [
+            "Do you have a passion for healthcare and want to make a",
+            "positive impact on diverse communities? Join Klinik Hanita, a",
+            "trusted healthcare facility serving our communities for over",
+            "16 years. We're currently looking for dedicated professionals",
+            "to join our team, where you can provide exceptional care and",
+            "grow in a supportive environment. At Klinik Hanita,",
+            "inclusivity, professional growth, and collaborative teamwork",
+            "are at the core of what we do. Join us and be a part of our commitment to outstanding healthcare. If you have the qualifications",
+            "and enthusiasm to contribute to our mission, please send your",
+            "resume and a cover letter to "
+        ],
+    "career email": "klinikhanita@gmail.com",
+
+
+    "career_list" : 
+        [
+            {
+                "id": 1,
+                "title": "Clinic Assistant",
+                "img": "/career/career2.png",
+                "jobScope":
+                    [
+                        {
+                            "jobTitle1" : "JOBSCOPE",
+                            "jobContent" : 
+                                [
+                                    "1. Patient Reception:",
+                                    "Greet and welcome patients and visitors to the clinic. Register new patients, verify and update existing patient information. Able to register panel's patients",
+                                    "2. Appointment Scheduling:",
+                                    "Schedule patient appointments, consultations, and follow-up visits. Coordinate appointment calendars for healthcare providers.",
+                                    "3. Patient Assistance:",
+                                    "Assist patients with completing necessary forms and paperwork. Provide information to patients regarding clinic procedures, services, and policies.",
+                                    "4. Medical Records Management:",
+                                    "Maintain accurate and organized patient records. Ensure compliance with patient confidentiality regulations",
+                                    "5. Billing and Payment Processing:",
+                                    "Handle patient billing inquiries and payment processing. Verify insurance information and assist with claims processing.",
+                                    "6. Inventory Management:",
+                                    "Monitor and maintain clinic supplies, including medical and office supplies. Place orders as needed and track inventory levels.",
+                                    "7. Administrative Support:",
+                                    "Assist healthcare providers and clinic staff with administrative tasks as required. Help with data entry, document preparation, and filing.",
+                                    "8. Cleaning and Sanitization:",
+                                    "Ensure the cleanliness and hygiene of patient waiting areas and examination rooms. Adhere to infection control and sanitation protocols."
+                                ]
+                        
+                        }
+                    ]
+            
+                
+            },
+            {
+                "id": 2,
+                "title": "Radiographer",
+                "img": "/career/career3.png",
+                "jobScope": 
+                    [
+                        {
+                            "jobTitle1" : "JOBSCOPE",
+                            "jobContent" : 
+                                [
+                                    "1. Patient Reception:",
+                                    "Greet and welcome patients and visitors to the clinic. Register new patients, verify and update existing patient information. Able to register panel's patients",
+                                    "2. Appointment Scheduling:",
+                                    "Schedule patient appointments, consultations, and follow-up visits. Coordinate appointment calendars for healthcare providers.",
+                                    "3. Patient Assistance:",
+                                    "Assist patients with completing necessary forms and paperwork. Provide information to patients regarding clinic procedures, services, and policies.",
+                                    "4. Medical Records Management:",
+                                    "Maintain accurate and organized patient records. Ensure compliance with patient confidentiality regulations",
+                                    "5. Billing and Payment Processing:",
+                                    "Handle patient billing inquiries and payment processing. Verify insurance information and assist with claims processing.",
+                                    "6. Inventory Management:",
+                                    "Monitor and maintain clinic supplies, including medical and office supplies. Place orders as needed and track inventory levels.",
+                                    "7. Administrative Support:",
+                                    "Assist healthcare providers and clinic staff with administrative tasks as required. Help with data entry, document preparation, and filing.",
+                                    "8. Cleaning and Sanitization:",
+                                    "Ensure the cleanliness and hygiene of patient waiting areas and examination rooms. Adhere to infection control and sanitation protocols."
+                                ]
+                        
+                        }
+                    ]
+                
+
+            }
+        ]
+}
+
