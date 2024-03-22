@@ -21,7 +21,7 @@
             {
                 "id": 1,
                 "name" : "CONSULTATION",
-                "img" : "https://img.freepik.com/free-photo/asian-female-physician-consulting-woman-office_1098-20395.jpg?",
+                "img" : "/services/ECG.jpeg?",
                 "treatmentcontent" : 
                     [
                         "1. Health Screening",
