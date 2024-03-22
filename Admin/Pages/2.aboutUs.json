@@ -61,12 +61,7 @@
 
     "team card" : 
         [
-            {
-                "id": 1,
-                "img": "/team/Aini Hidayah.jpg",
-                "name": "Aini Hidayah",
-                "position": "Pegawai Sumber Manusia"
-              },
+            
               {
                 "id": 2,
                 "img": "/team/Qurratu 'Ain Fadillah.jpg",
@@ -102,6 +97,12 @@
                 "img": "/team/AISYAH.jpeg",
                 "name": "AISYAH",
                 "position": "Pembantu Klinik"
+              },
+              {
+                "id": 8,
+                "img": "/team/Aini Hidayah.jpg",
+                "name": "Aini Hidayah",
+                "position": "Pegawai Sumber Manusia"
               }
         ]
 }
